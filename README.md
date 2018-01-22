@@ -1,5 +1,5 @@
 # AndroidSecureStorage
-Example to keep secure data using Android KeyStore System (from API 19+).
+How to keep secure data using Android KeyStore System (from API 19+).
 
 The App is composed for 3 classes:
 - MainActivity
